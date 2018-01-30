@@ -1,0 +1,41 @@
+body {
+	background: url(bg.jpg) no-repeat center fixed;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1	{
+	color: orange;
+	font-size: 50px;
+	font-family: 'Supermercado One', cursive;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+h2	{
+	color: white;
+	font-size: 18px;
+	margin-top: 0;	
+}
+
+.bio {
+	color: yellow;
+	font-size: 14px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.me {
+	height: 150px;
+	width: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
+
+hr {
+	width: 400px;
+	background-color: white;
+}
